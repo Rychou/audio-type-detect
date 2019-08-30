@@ -1,0 +1,25 @@
+{
+  "name": "audio-type-detect",
+  "version": "1.0.3",
+  "description": "detect audio file type from url",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "audio",
+    "file",
+    "type",
+    "mime",
+    "mp3",
+    "flac",
+    "aac",
+    "amr",
+    "oga",
+    "wav",
+    "wma"
+  ],
+  "repository": "Rychou/audio-type-detect",
+  "author": "rychouwei",
+  "license": "MIT"
+}
